@@ -155,3 +155,67 @@ border: 1px solid rgb(176, 175, 175);
     justify-content: space-around;
     margin-top: 60px;
 }
+.kontrol{
+    font-size: 60px;
+    font-weight: 700;
+    width: 660px;
+    margin-bottom: 50px;
+}
+.ser{
+    font-size: 24px;
+    color: #575757;
+    width: 680px;
+}
+.boy-list{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.sinch{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+}
+.judge{
+    width: 260px;
+    height: 220px;
+    padding-top: 20px;
+    border: 1px solid grey;
+    border-radius: 7px;
+ text-align: center;
+}
+.sq{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.picture{
+    width: 70%;
+    margin: auto;
+    margin-left: 230px;
+}
+.kolegi{
+    font-size: 50px;
+    font-weight: 700;
+    width: 630px;
+    margin-top: 30px;
+}
+.mog{
+    color: #575757;
+    font-size: 22px;
+    font-weight: 400;
+    width: 670px;
+}
+.komanda-pic{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 140px;
+}
+.five{
+    background-color: #F2F2F2;
+    height: 900px;
+    padding-top: 100px;
+}
