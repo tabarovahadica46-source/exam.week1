@@ -219,3 +219,26 @@ border: 1px solid rgb(176, 175, 175);
     height: 900px;
     padding-top: 100px;
 }
+.p-six{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.pad{
+    width: 300px;
+    height: 370px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 14px;
+}
+.imgoff{
+margin-left: 50px;
+
+}
+.pads{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
