@@ -237,6 +237,9 @@ border: 1px solid rgb(176, 175, 175);
 margin-left: 50px;
 
 }
+.grey{
+    font-size: 40px;font-weight: 700;
+}
 .pads{
     display: flex;
     justify-content: space-around;
@@ -288,6 +291,9 @@ margin-left: 50px;
     width: 500px;
     text-align: center;
 }
+.g{
+    display: flex;gap: 20px;align-items: center;
+}
 .besplatno{
     background-color: #843546;
     border: 1px solid #6A3B45;
@@ -302,4 +308,256 @@ margin-left: 50px;
 .last{
     width: 30%;
     margin: auto;
+    margin-bottom: 70px;
+}
+.footer{
+    background-color: black;
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.foot-p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.border-top{
+    border-top: 1px solid grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+@media (max-width:1024px) {
+   .www{
+    width: 300px;
+    height: 300px;
+   } 
+   .rectangle{
+    width: 330px;
+   }
+   .squares{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+   }
+   .square{
+    width: 600px;
+   }
+   .big-img{
+    width: 690px;
+    margin-left: 10px;
+   }
+   .dis{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   }
+   .third{
+    height: 2000px;
+   }
+   .rows{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 30px;
+   }
+   .boy-list{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 30px;
+   }
+   .boy{
+    width: 680px;
+   }
+   .sq{
+    justify-content: space-evenly;
+   }
+   .picture{
+    margin-left: 10px;
+    width: 100%;
+   }
+   .komanda-pic{
+    display: flex;
+    flex-direction: column-reverse;
+    height: 1600px;
+   }
+   .girl{
+    width: 100%;
+   }
+   .five{
+    height: 1500px;
+   }
+   .pads{
+display: flex;
+flex-direction: column;
+gap: 20px;
+width: 600px;
+margin-left: 40px;
+   }
+   .pad{
+    width: 690px;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+   }
+   .seven{
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+   }
+   .eight{
+    display: flex;
+    flex-direction: column-reverse;
+
+   }
+   .last{
+    width: 60%;
+   margin: auto;
+   margin-top: 50px;
+   margin-bottom: 40px;
+   }
+   .footer{
+   
+    text-align: center;
+
+   }
+   .f{
+    display: none;
+   }
+   .s{
+    font-size: 20px;
+   }
+   .border-top{
+  width: 100%;
+   }
+    
+}
+@media (max-width:500px) {
+    .first{
+        flex-direction: column-reverse;
+    }
+    .forum{
+        margin-left: 10px;
+    }
+    .kab{
+        width: 320px;
+        font-size: 30px;
+    }
+    .servic{
+        width: 320px;
+        font-size: 14px;
+    }
+    .rectangles{
+        flex-direction: column;
+         gap: 30px;
+    }
+    .rectangle{
+        width: 360px;
+        margin-left: 10px;
+       
+       
+    }
+    .squares{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .square{
+        width: 340px;
+    }
+    .big-img{
+        width: 90%;
+        margin: auto;
+        height: 300px;
+    }
+    .upravlenie{
+        width: 250px;
+        font-size: 26px;
+    }
+    .oformlenie{
+        width: 340px;
+        font-size: 14px;
+    }
+    .nisch-table{
+        width: 100%;
+    }
+    table{
+        width: 100%;
+    }
+    .ver-table{
+        width: 100%;
+    }
+    td{
+      font-size: 12px;
+    }
+    .four-rec{
+        width: 340px;
+    }
+    .g{
+        display: flex;
+        flex-direction: column;
+    }
+    .grey{
+        margin-left: 2px;
+    }
+    .boy-list{
+        flex-direction: column-reverse;
+       
+    }
+    .kontrol{
+        width: 300px;
+        font-size: 26px;
+    }
+    .ser{
+        width: 300px;
+    }
+    .boy{
+        width: 100%;
+    }
+    .judge{
+        width: 200px;
+    }
+    .sq{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .kolegi{
+        width: 90%;
+        margin: auto;
+    }
+    .mog{
+        width: 90%;
+        margin: auto;
+    }
+    .p-six{
+        font-size: 20px;
+    }
+    .pad{
+        width: 350px;
+    }
+    .res{
+        width: 300px;
+        font-size: 25px;
+    }
+    .chran{
+        width: 300px;
+    }
+    .scroll{
+        width: 100% ;
+    }
+    .j{
+        text-align: center;
+    }
+    .last{
+        margin-left: 10px;
+    }
+    .dumat{
+        font-size: 25px;
+        width: 300px;
+    }
+    .besplatno{
+        margin-left: 30px;
+    }
 }
