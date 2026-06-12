@@ -93,3 +93,65 @@ button{
     height: 700px;
    margin-left: 230px;
 }
+.third{
+    background-color: #F2F2F2;
+    height: 1100px;
+    padding-top: 100px;
+}
+.upravlenie{
+    font-size: 60px;
+    font-weight: 700;
+    width:700px;
+}
+.oformlenie{
+    color: #575757;
+    width: 700px;
+    font-size: 24px;
+    font-weight: 400px;
+}
+.ver-table{
+    width: 580px;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #843546;
+    color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.nisch-table{
+    width: 580px;
+    height: 380px;
+    background-color: white;
+}
+table,tr,td{
+   
+    
+}
+table{
+    width: 580px;
+    height: 380px;
+    border-collapse: collapse;
+    background-color: white;
+     
+}
+tr{
+border: 1px solid rgb(176, 175, 175);
+
+}
+.dis
+{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    width: 80%;
+}
+.four-rec{
+    border: 1px solid silver;
+}
+.rows{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
